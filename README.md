@@ -1,3 +1,3 @@
 # R-Estudo
-Repositorio Git Etudo em R Studio
+Repositorio Git Estudo em R Studio
 Primeiros Passos em R.
