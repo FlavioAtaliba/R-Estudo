@@ -6,6 +6,7 @@ presença<- list(95,80,95,55,100,60,50)
 
 # diferente de outras linguagens o vetor/lista começa no indice 1
 # regra de negocio aprovado por nota >=5, caso nota>3 e <5 exame 
+# usando while  e  for e a funcão append para coletar e depois armazenar na lista situacao
 situacao<- list()
 i<- 1
 while (i<= length(aluno)) {
